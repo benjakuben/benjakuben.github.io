@@ -1,0 +1,36 @@
+.container {
+    max-width: 800px;
+}
+h1 {
+    padding-top: 8px;
+}
+.subheading {
+    margin-top: -8px;
+    color: #777777;
+}
+h2 {
+    line-height: 32px;
+    font-size: 20px;
+    color: #444444;
+}
+.short-bio {
+    padding-top: 12px;
+}
+.fa, .fab {
+    padding-left: 8px;
+    padding-right: 8px;
+    color: #777777;
+}
+h3 {
+    padding-top: 1em;
+}
+h4 {
+    font-size: 1.2em;
+    padding-top: 0.5em;
+}
+h5 {
+    font-size: 1em;
+}
+li {
+    color: #555555;
+}
